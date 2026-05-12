@@ -117,6 +117,36 @@ Hex: 0x00FF
 Bin: 0b 0000 0000 1111 1111
 ```
 
+## Screenshots
+
+The toolkit running inside DOSBox on Windows 11.
+
+**Launching the program**
+
+![DOSBox launch](screenshots/01_dosbox_launch.png)
+
+**The main menu**
+
+![Main menu](screenshots/02_main_menu.png)
+
+**File viewer — viewing `clock.asm`**
+
+![File viewer prompt](screenshots/03_file_viewer_prompt.png)
+
+![File viewer output](screenshots/04_file_viewer_output.png)
+
+**Number converter — 45454 in hex and binary**
+
+![Number converter](screenshots/05_number_converter.png)
+
+**System clock**
+
+![System clock](screenshots/06_system_clock.png)
+
+**XOR encryption — message `dfgtgf`, key 333, then a clean exit**
+
+![XOR encryption](screenshots/07_xor_encryption.png)
+
 ## Notes & Limitations
 
 * Targets the **8086** instruction set only (`CPU 8086`) so it runs on every DOS compatible CPU.
